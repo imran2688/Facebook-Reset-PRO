@@ -33,4 +33,5 @@ MD AKASH 🚫,Mdakash909,01779616692,WIN_09e8038b-4d78-44a9-8013-0c1b5a987cf2,20
 𝘼 𝙉 𝐓 𝙐,Antu_Bro1,01822753131,WIN_e9c72b91-f4bd-4738-a3f2-6bfbb1280940,2026-01-04,false
 Præñtø Mondal,pranto71,01738945576,WIN_ab5200bb-6767-4dba-9dfc-180d905de166,2026-01-03,false
 Saroar Hossain,saroartamanna,01614186190,WIN_7cd96970-a28d-48b4-9d36-1388ebceddda,2026-01-03,false
-Amirhamja Islam,freelancaramirhamja12,01982954493,WIN_04ca1fd4-abae-4e80-9c16-11d3f494f5d8,2026-01-02,fals
+Amirhamja Islam,freelancaramirhamja12,01982954493,WIN_04ca1fd4-abae-4e80-9c16-11d3f494f5d8,2026-01-02,false
+Antor,akp121,01754336227,WIN_da4585af-3d4e-4d6c-b538-367cc0a985ca,2026-01-01,false
