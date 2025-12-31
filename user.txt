@@ -40,3 +40,4 @@ Sadib Sheikh,sadibsheikh,01989467781,WIN_31bcaa2f-ff84-4ce8-98c0-26e4d2a2f49b,20
 Suhel,suhel991,01819042466,WIN_a93eac5c-af2a-45e7-8f7b-60c45ef6a598,2026-12-01,false
 Black Cat,BlackCat_Bd70,01402871564,WIN_09acf744-0462-47da-b822-9a8649206838,2026-01-08,false
 Anik,md_anik90,01840441301,WIN_e714828e-234f-4174-bffb-1c3f0957e708,2027-07-31,false
+𝙈𝙊𝙍𝙎𝘼𝙇𝙄𝙉 𝙆𝙃𝘼𝙉,Morsalin713,01731881498,WIN_93ef25d3-8c32-4851-ae29-86f5c9a71b45,2026-07-01,false
