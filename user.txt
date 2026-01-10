@@ -41,7 +41,6 @@ Anik,md_anik90,01840441301,WIN_8fdbefd0-7d49-4d6d-8137-a452e4176fcb,2027-07-31,f
 𝙈𝙊𝙍𝙎𝘼𝙇𝙄𝙉 𝙆𝙃𝘼𝙉,Morsalin713,01731881498,WIN_93ef25d3-8c32-4851-ae29-86f5c9a71b45,2026-01-03,false
 Firoj Khan,Linkdeumiya,01577469696,WIN_baa8bdaf-ffd0-415a-b9c7-8573e072b915,2026-01-14,false
 Firoj Khan,Linkdeumiya,01577469696,WIN_baa8bdaf-ffd0-415a-b9c7-8573e072b915,2026-01-14,false
-HRIDOY,Hridoy_001,01878224495,WIN_50753078-8935-4965-b5d8-4a774142cc05,2026-01-20,false
 Jahid Bro,Genetxu,01710063004,WIN_aa54570f-6bcf-4692-851f-fbfe1f1795bf,2026-01-19,false
 Many Is life 🤑,Methodusd,0185656783,WIN_69c4db5d-8fdf-4733-9f6c-a644a79e0c86,2026-01-10,false
 Derek Soken,Derek2sok,01624836178,WIN_4d868f33-3d1f-4147-936b-aebc07e50016,2026-02-04,false
